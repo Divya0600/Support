@@ -1,0 +1,6 @@
+id,issue_description,solution
+1,Outlook crashes when opening emails with attachments,Update Outlook to the latest version and clear the attachment cache.
+2,Cannot connect to the VPN from home network,Ensure you're using the correct VPN client version and reset your home router.
+3,Printer not responding,Check if the printer is powered on and connected to the network.
+4,Email not syncing,Verify your internet connection and reconfigure your email settings.
+5,Software installation failed,Ensure you have administrative rights and sufficient disk space.
